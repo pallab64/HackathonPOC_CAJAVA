@@ -1,0 +1,7 @@
+---
+name: pol12345host43  
+path: build/
+memory: 64M
+instances: 1
+domain: eu-gb.mybluemix.net
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
